@@ -3,7 +3,7 @@
 <div align="center">
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+YOUR_NAME;💻+YOUR_ROLE;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=36&duration=4000&pause=1000&color=F875AA&center=true&vCenter=true&width=700&lines=✨+Vinay MH;💻+Python Full Stack Developer;🚀+YOUR_SPECIALIZATION;🌟+Open+to+Collaborations!;🎯+YOUR_TAGLINE" />
 </h1>
 
 <div align="center">
@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:vinaymh128@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
@@ -36,7 +36,8 @@
 
 ## 🎯 About Me
 
-YOUR_SHORT_INTRODUCTION_PARAGRAPH
+Passionate Full Stack Developer specializing in scalable backend systems.
+Love building efficient applications 
 
 Example:
 Passionate Full Stack Developer specializing in scalable backend systems.
