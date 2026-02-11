@@ -39,23 +39,17 @@
 Passionate Full Stack Developer specializing in scalable backend systems.
 Love building efficient applications 
 
-Example:
-Passionate Full Stack Developer specializing in scalable backend systems.
-Love building efficient applications and exploring AI/ML integration.
 
----
 
 ## 🛠️ Tech Stack & Skills
 
 ### 🔥 Programming Languages
-• Language 1  
-• Language 2  
-• Language 3  
+•Python  
+ 
 
 ### 🚀 Backend
-• Framework 1  
-• Framework 2  
-• Framework 3  
+•Django  
+ 
 
 ### 💅 Frontend
 • React / Vue / Angular  
